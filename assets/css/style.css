@@ -1,0 +1,11 @@
+.button {
+    font-weight: bolder;
+}
+
+#submit-btn {
+    background-color: goldenrod;
+    border-color: goldenrod;
+    color: darkslategray;
+}
+
+

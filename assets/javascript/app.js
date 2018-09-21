@@ -40,8 +40,7 @@ $(document).ready(function (){
         term = $(this).text();
 
         // define queryURL
-        const queryURL = "https://api.giphy.com/v1/gifs/search?q=" +
-        term + "&api_key=d2owZB648qOVga3aNLKfn3RhLhTHYVo2&limit=10";
+        const queryURL = `https://api.giphy.com/v1/gifs/search?q=${term}&api_key=d2owZB648qOVga3aNLKfn3RhLhTHYVo2&limit=10`;
 
         $.ajax({
             url: queryURL,
