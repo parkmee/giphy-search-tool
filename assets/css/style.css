@@ -1,11 +1,37 @@
+.html {
+    background-image: url(../images/tiny-squares.zip);
+}
+
+.card-header {
+    background-image: url(../images/background.gif);
+    background-size: 75%;
+    background-position: bottom;
+    height: 175px;
+    color: ghostwhite;
+    font-family: 'Monoton', cursive;
+}
+
+.jumbotron {
+    background-color: rgba(52,84,145);
+}
+
+.j-title {
+    color: ghostwhite;
+}
+
 .button {
     font-weight: bolder;
 }
 
 #submit-btn {
-    background-color: goldenrod;
-    border-color: goldenrod;
+    background-color: white;
     color: darkslategray;
+    font-weight: bolder;
 }
 
-
+.rating {
+    padding: 5px;
+    font-family: 'Muli', sans-serif;
+    color: ghostwhite;
+    font-weight: bolder;
+}
