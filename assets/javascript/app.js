@@ -4,7 +4,7 @@ $(document).ready(function (){
     let games = [
         "mario kart", 
         "final fantasy", 
-        "donkey kong", 
+        "monkey island", 
         "super mario bros", 
         "mortal kombat", 
         "pac man", 
