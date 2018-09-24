@@ -12,19 +12,21 @@ html body {
 }
 
 .jumbotron {
-    background-color: rgba(52,84,145);
+    background-color: rgba(52,84,145,.9);
+
 }
 
 .j-title {
     color: ghostwhite;
 }
 
-.button {
+button {
     font-weight: bolder;
+    color: ghostwhite;
 }
 
 #submit-btn {
-    background-color: white;
+    background-color: white !important;
     color: darkslategray;
     font-weight: bolder;
 }
