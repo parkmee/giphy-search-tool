@@ -1,5 +1,5 @@
-.html {
-    background-image: url(../images/tiny-squares.zip);
+html body {
+    background-image: url(../images/tiny-squares.png);
 }
 
 .card-header {
